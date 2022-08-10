@@ -1,0 +1,43 @@
+
+.main{position: relative;
+      border: 3px solid red;
+      height: 100vh;
+
+    background-color: aquamarine;}
+
+.footer{
+    position:fixed;
+    
+    margin-bottom: 5px;
+    border: 3px solid blue;
+    /* background-color: black; */
+}
+
+/* error page */
+
+.error_box{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    /* border: 3px solid red; */
+}
+.error_img{
+    width: 600px;
+    height: 500px;
+    
+}
+
+.error_btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+/* about page */
+
+
+.about_main{
+
+    font-family: monospace;
+}
